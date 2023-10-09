@@ -1,7 +1,7 @@
 # multi_academic_paper_querying
 Python CLI that takes in PDF inputs of academic papers and either:
 1. Returns generic summarization
-2. Custmoized querying
+2. Custmoized query results
 
 
 
