@@ -9,7 +9,7 @@ import argparse
 import os
 
 
-llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.2,openai_api_key="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")
+llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.2)
 
 
 def custom_summary(pdf_folder, custom_prompt):
